@@ -8,9 +8,12 @@ dependencies = [
     "flask>=3.1.1",
     "ipykernel>=6.29.5",
     "langchain>=0.3.26",
+    "langchain-community>=0.3.27",
     "langchain-groq>=0.3.4",
     "langchain-openai>=0.3.27",
+    "langchain-tavily>=0.2.11",
     "langgraph>=0.4.8",
     "python-dotenv",
     "streamlit>=1.47.1",
+    "wikipedia>=1.4.0",
 ]
